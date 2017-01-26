@@ -1,0 +1,7 @@
+include "109.nodoka"
+include "key_seq.nodoka"
+
+include "versapro_homeMoved.nodoka"
+include "dvorakY.nodoka"
+include "modkeys.nodoka"
+
