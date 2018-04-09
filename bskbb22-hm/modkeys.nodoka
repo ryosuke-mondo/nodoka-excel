@@ -326,9 +326,9 @@ key *W-*A-*S-*C-m4-X = *W-*A-*S-*C-S-C-B #",,,,,,,,,,
 key *W-*A-*S-*C-m5-Tab = *W-*A-*S-*C-F11 #","
 key *W-*A-*S-*C-m5-Semicolon = *W-*A-*S-*C-F10 #","
 key *W-*A-*S-*C-m5-Q = *W-*A-*S-*C-F9 #","
-key *W-*A-*S-*C-m5-J = *W-*A-*S-*C-F7 #","
-key *W-*A-*S-*C-m5-K = *W-*A-*S-*C-F6 #","
-key *W-*A-*S-*C-m5-X = *W-*A-*S-*C-F5 #",,,,,,,,,,
+key *W-*A-*S-*C-m5-J = *W-*A-*S-*C-F8 #","
+key *W-*A-*S-*C-m5-K = *W-*A-*S-*C-F7 #","
+key *W-*A-*S-*C-m5-X = *W-*A-*S-*C-F6 #",,,,,,,,,,
 # mod6,,,"
 key *W-*A-*S-*C-m6-Semicolon = *W-*A-*S-*C-A-© #","
 key *W-*A-*S-*C-m6-Q = *W-*A-*S-*C-A-¨ #","
