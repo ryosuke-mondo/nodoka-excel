@@ -1,0 +1,221 @@
+# original,"
+def subst *Esc = *Esc #","
+def subst *F1 = *LeftWindows #","
+def subst *F2 = *Esc #","
+def subst *F3 = *LeftControl #","
+def subst *F4 = *LeftAlt #","
+def subst *F5 = *BackSpace #","
+def subst *F6 = *Delete #","
+def subst *F7 = *CommercialAt #","
+def subst *F8 = *Tab #","
+def subst *F9 = *S-Tab #","
+def subst *F10 = *S-Tab #","
+def subst *YenSign = *YenSign #","
+def subst *Delete = *_4 #",,,,
+# subst,,,,,,,,,,,,,,,,,
+# mod,,"
+mod Windows += F1 #",,"
+mod Ctrl += F3 #","
+mod Alt += F4 #",,,,,,,"
+mod Alt += YenSign #",,,,,
+# mod,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+# original,"
+def subst *îºäp/ëSäp = *îºäp/ëSäp #","
+def subst *_1 = *LeftShift #","
+def subst *_2 = *Colon #","
+def subst *_3 = *Comma #","
+def subst *_4 = *ÅB #","
+def subst *_5 = *P #","
+def subst *_6 = *Y #","
+def subst *_7 = *F #","
+def subst *_8 = *G #","
+def subst *_9 = *C #","
+def subst *_0 = *R #","
+def subst *HyphenMinus = *L #","
+def subst *CircumflexAccent = *Å^ #","
+def subst *BackSpace = *_4 #",,,
+# subst,,,,,,,,,,,,,,,,,
+# mod,,,,,,,,,,,,,,,,,
+# mod,,"
+mod mod4 = !!_1 #",,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+# original,"
+def subst *Tab = *Space #","
+def subst *Q = *Minus #","
+def subst *W = *A #","
+def subst *E = *O #","
+def subst *R = *E #","
+def subst *T = *U #","
+def subst *Y = *I #","
+def subst *U = *D #","
+def subst *I = *H #","
+def subst *O = *T #","
+def subst *P = *N #","
+def subst *CommercialAt = *S #","
+def subst *LeftSquareBracket = *HyphenMinus #",,,,
+# subst,,,,,,,,,,,,,,,,,
+# mod,,,,,,,,,,,,,,,,,
+# mod,"
+mod mod7 = !!Tab #","
+mod mod8 = !!Q #",,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+# original,"
+def subst *âpêî = *âpêî #","
+def subst *A = *Tab #","
+def subst *S = *Semicolon #","
+def subst *D = *Q #","
+def subst *F = *J #","
+def subst *G = *K #","
+def subst *H = *X #","
+def subst *J = *B #","
+def subst *K = *M #","
+def subst *L = *W #","
+def subst *Semicolon = *V #","
+def subst *Colon = *Z #","
+def subst *RightSquareBracket = *YenSign #",,,,
+# subst,,,,,,,,,,,,,,,,,
+# mod,,,,,,,,,,,,,,,,,
+# mod,,"
+mod mod9 = !!A #",,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+# original,"
+def subst *LeftShift = *LeftShift #",,"
+def subst *Z = *Z #","
+def subst *X = *_3 #","
+def subst *C = *Delete #","
+def subst *V = *BackSpace #","
+def subst *B = *Enter #","
+def subst *N = *LShift #","
+def subst *M = *BackSpace #","
+def subst *Comma = *F9 #","
+def subst *FullStop = *F10 #","
+def subst *Solidus = *F11 #","
+def subst *ReverseSolidus = *F12 #","
+def subst *Å™ = *Å™ #",,,
+# subst,,,,,,,,,,,,,,,,,
+# mod,,,,,,,,"
+mod Shift += N #",,,,,,,,,
+# mod,,,,"
+mod mod3 = !!X #","
+mod mod6 = !!C #","
+mod mod1 = !!V #","
+mod mod0 = !!B #",,"
+mod mod2 = !!M #",,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+# original,"
+def subst *LeftControl = *Space #","
+def subst *LeftWindows = *LeftWindows #","
+def subst *LeftAlt = *LeftAlt #","
+def subst *ñ≥ïœä∑ = *LeftControl #","
+def subst *Space = *Space #",,,,,"
+def subst *ïœä∑ = *RightControl #","
+def subst *Ç–ÇÁÇ™Ç» = *RightAlt #",,"
+def subst *Å© = *Å© #","
+def subst *Å´ = *Å´ #","
+def subst *Å® = *Å® #",,
+# subst,,,,,,,,,,,,,,,,,
+# mod,,,,,"
+mod Ctrl += Space #",,,,,"
+mod Ctrl += ïœä∑ #","
+mod Alt += Ç–ÇÁÇ™Ç» #",,,,,,
+# mod,,"
+mod mod5 = !!LeftWindows #",,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+#,,,,,,,,,,,,,,,,,
+# äJén,"#
+key *IL-*IC- =
+ #",,,,,,,,,,,,,,,,
+# àÍíiñ⁄,"#
+#1íiñ⁄
+#1
+key s-_2 = $COMMERCIAL_AT   #@
+#3
+#4
+#5
+key s-_6 = $CIRCUMFLEX_ACCENT  #^
+key s-_7 = $AMPERSAND    #&
+key s-_8 = $ASTERISK    #*
+key s-_9 = $LEFT_PARENTHESIS  #(
+key s-_0 = $RIGHT_PARENTHESIS  #)
+
+ #",,,,,,,,,,,,,,,,
+# ÇQíiñ⁄,"#
+#2íiñ⁄
+key colon   = s-_7
+key s-colon = $QUOTATION_MARK       #
+#
+key *CircumflexAccent = $equals_sign    #=
+key S-*CircumflexAccent = $PLUS_sign     #+
+
+ #",,,,,,,,,,,,,,,,
+# 3íiñ⁄,"#
+#3íiñ⁄
+key s-Å[     = $low_line        #_
+key Atmark      = $GRAVE_ACCENT       # `
+key s-Atmark    = $tilde        #~
+
+ #",,,,,,,,,,,,,,,,
+# 4íiñ⁄,"#
+#4íiñ⁄
+key s-semicolon = colon         #:
+
+ #",,,,,,,,,,,,,,,,
+# else,"#
+#else
+mod Ctrl -= LCtrl         #:
+
+mod Windows -= LWindows #",,,,,,,,,,,,,,,,

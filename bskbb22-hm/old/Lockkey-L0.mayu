@@ -1,0 +1,68 @@
+key *IL-*IC- =				#IMEのon/off、変換中か否かにかかわらず適用する
+
+def option mouse-event = true
+keyseq $cqid = m o _8 _4 _2 _0 _7 _2
+
+#1段目
+key L0-_3  = ＠
+#win
+key L0-逃 = ＠
+#ctrl
+#alt
+key L0-換 = &Toggle(Lock0)
+key L0-除 = ＠
+key L0-Ta = ＠
+key L0-無 = ＠
+#Alt
+#win
+#Fn
+#Ctrl
+
+#2段目
+key L0-_5 = ＠
+key L0-： = &MouseMove(-512, 0)
+key L0-、 = &MouseMove(+512, 0)
+key L0-。 = &MouseMove(0, +512)
+key L0-p  = &MouseMove(0, -512)
+key L0-y  = &MouseMoveTo(C, 0, 0, true)
+key L0-f  = &MouseMoveTo(C, 0, 0, false)
+key L0-g  = &MouseMove(-256, 0)
+key L0-c  = &MouseMove(+256, 0)
+key L0-r  = &MouseMove(0, +256)
+key L0-l  = &MouseMove(0, -256)
+key L0-／ = ＠
+
+#3段目
+key L0-改 = ＠
+# ー
+key L0-a  = &MouseMove(-128, 0)
+key L0-o  = &MouseMove(+128, 0)
+key L0-e  = &MouseMove(0, +128)
+key L0-u  = &MouseMove(0, -128)
+key *W-*A-*S-*C-L0-i  = *W-*A-*S-*C-LButton
+key *W-*A-*S-*C-L0-d  = *W-*A-*S-*C-RButton
+key L0-h  = &MouseMove(-64, 0)
+key L0-t  = &MouseMove(+64, 0)
+key L0-n  = &MouseMove(0, +64)
+key L0-s  = &MouseMove(0, -64)
+# key L0-ー = 
+
+key R-L0-i = &Ignore
+key U-L0-i = &Ignore
+key R-L0-d = &Ignore
+key U-L0-d = &Ignore
+
+
+#4段目
+key L0-_6 = ＠
+key L0-蝉  = &MouseMove(-32, +0)
+key L0-q   = &MouseMove(+32, +0)
+key L0-j   = &MouseMove(+0, +32)
+key L0-k   = &MouseMove(+0, -32)
+key L0-x   = ＠
+key L0-b   = ＠
+key L0-m   = &MouseMove(-16, +0)
+key L0-w   = &MouseMove(+16, +0)
+key L0-v   = &MouseMove(+0, +16)
+key L0-z   = &MouseMove(+0, -16)
+key L0-円  = ＠

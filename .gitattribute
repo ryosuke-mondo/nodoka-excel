@@ -1,0 +1,6 @@
+*           text=auto
+*.txt       text
+*.nodoka    text eol=crlf
+*.sh        text eol=lf
+*.xlsx      -text
+
