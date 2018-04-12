@@ -11,7 +11,7 @@ def subst *F8 = *Tab #","
 def subst *F9 = *S-Tab #","
 def subst *F10 = *S-Tab #","
 def subst *YenSign = *YenSign #","
-def subst *Delete = *_4 #",,,,
+def subst *Delete = *Delete #",,,,
 # subst,,,,,,,,,,,,,,,,,
 # mod,,"
 mod Windows += F1 #",,"
@@ -43,7 +43,7 @@ def subst *_9 = *C #","
 def subst *_0 = *R #","
 def subst *HyphenMinus = *L #","
 def subst *CircumflexAccent = *Å^ #","
-def subst *BackSpace = *YenSign #",,,
+def subst *BackSpace = *_4 #",,,
 # subst,,,,,,,,,,,,,,,,,
 # mod,,,,,,,,,,,,,,,,,
 # mod,,"
@@ -72,7 +72,7 @@ def subst *O = *T #","
 def subst *P = *N #","
 def subst *CommercialAt = *S #","
 def subst *LeftSquareBracket = *HyphenMinus #","
-def subst *RightSquareBracket = *Enter #",,,
+def subst *RightSquareBracket = *YenSign #",,,
 # subst,,,,,,,,,,,,,,,,,
 # mod,,,,,,,,,,,,,,,,,
 # mod,"

@@ -13,7 +13,7 @@ key *W-*A-*S-*C-m0-BackSpace = *W-*A-*S-*C-C-F2 #","
 key *W-*A-*S-*C-m0-Delete = *W-*A-*S-*C-C-W #",,,,"
 key *W-*A-*S-*C-m0-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m0-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m0-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m0-Delete = *W-*A-*S-*C-— #",,,,
 # mod1,,"
 key *W-*A-*S-*C-m1-LeftWindows = *W-*A-*S-*C-S-© #","
 key *W-*A-*S-*C-m1-Esc = *W-*A-*S-*C-S-¨ #","
@@ -23,7 +23,7 @@ key *W-*A-*S-*C-m1-BackSpace = *W-*A-*S-*C-S-ª #","
 key *W-*A-*S-*C-m1-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m1-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m1-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m1-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m1-Delete = *W-*A-*S-*C-— #",,,,
 # mod2,,"
 key *W-*A-*S-*C-m2-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m2-Esc = *W-*A-*S-*C-— #","
@@ -33,7 +33,7 @@ key *W-*A-*S-*C-m2-BackSpace = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m2-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m2-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m2-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m2-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m2-Delete = *W-*A-*S-*C-— #",,,,
 # mod3,,"
 key *W-*A-*S-*C-m3-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m3-Esc = *W-*A-*S-*C-— #","
@@ -43,7 +43,7 @@ key *W-*A-*S-*C-m3-BackSpace = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m3-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m3-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m3-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m3-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m3-Delete = *W-*A-*S-*C-— #",,,,
 # mod4,,"
 key *W-*A-*S-*C-m4-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m4-Esc = *W-*A-*S-*C-C-S-ESC #","
@@ -53,7 +53,7 @@ key *W-*A-*S-*C-m4-BackSpace = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m4-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m4-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m4-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m4-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m4-Delete = *W-*A-*S-*C-— #",,,,
 # mod5,,"
 key *W-*A-*S-*C-m5-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m5-Esc = *W-*A-*S-*C-C-A-F3 #","
@@ -63,7 +63,7 @@ key *W-*A-*S-*C-m5-BackSpace = *W-*A-*S-*C-C-A-F2 #","
 key *W-*A-*S-*C-m5-Delete = *W-*A-*S-*C-S-F9 #",,,,"
 key *W-*A-*S-*C-m5-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m5-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m5-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m5-Delete = *W-*A-*S-*C-— #",,,,
 # mod6,,"
 key *W-*A-*S-*C-m6-LeftWindows = *W-*A-*S-*C-A-F1 #","
 key *W-*A-*S-*C-m6-Esc = *W-*A-*S-*C-A-F2 #","
@@ -73,7 +73,7 @@ key *W-*A-*S-*C-m6-BackSpace = *W-*A-*S-*C-A-F5 #","
 key *W-*A-*S-*C-m6-Delete = *W-*A-*S-*C-A-F6 #",,,,"
 key *W-*A-*S-*C-m6-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m6-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m6-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m6-Delete = *W-*A-*S-*C-— #",,,,
 # mod7,,"
 key *W-*A-*S-*C-m7-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m7-Esc = *W-*A-*S-*C-— #","
@@ -83,7 +83,7 @@ key *W-*A-*S-*C-m7-BackSpace = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m7-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m7-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m7-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m7-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m7-Delete = *W-*A-*S-*C-— #",,,,
 # mod8,,"
 key *W-*A-*S-*C-m8-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m8-Esc = *W-*A-*S-*C-C-© #","
@@ -93,7 +93,7 @@ key *W-*A-*S-*C-m8-BackSpace = *W-*A-*S-*C-C-ª #","
 key *W-*A-*S-*C-m8-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m8-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m8-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m8-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m8-Delete = *W-*A-*S-*C-— #",,,,
 # mod9,,"
 key *W-*A-*S-*C-m9-LeftWindows = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m9-Esc = *W-*A-*S-*C-— #","
@@ -103,7 +103,7 @@ key *W-*A-*S-*C-m9-BackSpace = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m9-Delete = *W-*A-*S-*C-— #",,,,"
 key *W-*A-*S-*C-m9-S-Tab = *W-*A-*S-*C-— #","
 key *W-*A-*S-*C-m9-YenSign = *W-*A-*S-*C-— #","
-key *W-*A-*S-*C-m9-_4 = *W-*A-*S-*C-— #",,,,
+key *W-*A-*S-*C-m9-Delete = *W-*A-*S-*C-— #",,,,
 #,,,,,,,,,,,,,,,,,
 #,,,,,,,,,,,,,,,,,
 #,,,,,,,,,,,,,,,,,
