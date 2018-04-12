@@ -43,7 +43,7 @@ def subst *_9 = *C #","
 def subst *_0 = *R #","
 def subst *HyphenMinus = *L #","
 def subst *CircumflexAccent = *Å^ #","
-def subst *BackSpace = *_4 #",,,
+def subst *BackSpace = *YenSign #",,,
 # subst,,,,,,,,,,,,,,,,,
 # mod,,,,,,,,,,,,,,,,,
 # mod,,"
@@ -71,7 +71,8 @@ def subst *I = *H #","
 def subst *O = *T #","
 def subst *P = *N #","
 def subst *CommercialAt = *S #","
-def subst *LeftSquareBracket = *HyphenMinus #",,,,
+def subst *LeftSquareBracket = *HyphenMinus #","
+def subst *RightSquareBracket = *Enter #",,,
 # subst,,,,,,,,,,,,,,,,,
 # mod,,,,,,,,,,,,,,,,,
 # mod,"
@@ -100,7 +101,7 @@ def subst *K = *M #","
 def subst *L = *W #","
 def subst *Semicolon = *V #","
 def subst *Colon = *Z #","
-def subst *RightSquareBracket = *YenSign #",,,,
+def subst *Enter = *YenSign #",,,,
 # subst,,,,,,,,,,,,,,,,,
 # mod,,,,,,,,,,,,,,,,,
 # mod,,"
@@ -218,4 +219,4 @@ key s-semicolon = colon         #:
 #else
 mod Ctrl -= LCtrl         #:
 
-mod Windows -= LWindows #",,,,,,,,,,,,,,,,
+ #",,,,,,,,,,,,,,,,
