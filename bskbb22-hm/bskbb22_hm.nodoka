@@ -151,7 +151,7 @@ mod mod2 = !!M #",,,,,,,,
 #,,,,,,,,,,,,,,,,,
 # original,"
 def subst *LeftControl = *Space #","
-def subst *LeftWindows = *LeftWindows #","
+def subst *LeftWindows = *Space #","
 def subst *LeftAlt = *LeftAlt #","
 def subst *–³•ÏŠ· = *LeftControl #","
 def subst *Space = *Space #",,,,,"
@@ -219,4 +219,4 @@ key s-semicolon = colon         #:
 #else
 mod Ctrl -= LCtrl         #:
 
- #",,,,,,,,,,,,,,,,
+mod Windows -= LWindows #",,,,,,,,,,,,,,,,
