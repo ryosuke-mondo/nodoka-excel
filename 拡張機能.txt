@@ -1,0 +1,29 @@
+Quick Launch Tasks
+Time Stamp Margin
+Solution Error Visualizer
+Peek Help
+Middle Click Scroll
+Fix Mixed Tabs
+Align Assignments
+StyleCop
+WakaTime
+Regex Tester
+Visual Studio Spell Checker
+Roslynator 2017
+GitExtensions
+Viasfora
+Editor Guidelines
+Shrink Empty Lines
+Power Commands for Visual Studio
+Match Margin
+Ctrl+Click Go to Definition
+Extensiblity Tools
+VSColorOutput
+Productivity Power Tools 2017
+VsVim
+MarkDown Editor
+CodeMaid
+Visual Assist
+PowerShell Tools for Visual Studio 2017
+Github Extension for Visual Studio
+Test Adapter for Boost.Test
