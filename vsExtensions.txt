@@ -27,3 +27,8 @@ Visual Assist
 PowerShell Tools for Visual Studio 2017
 Github Extension for Visual Studio
 Test Adapter for Boost.Test
+Clang with Microsoft CodeGen
+Developer Analytics Tools
+NuGet Package manager
+Visual Studio Extension for TextMate Grammers
+
