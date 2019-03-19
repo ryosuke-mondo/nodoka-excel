@@ -71,6 +71,7 @@ Invoke-Item $dim_dst\DimScreen\DimScreen.exe
 
 choco install vim -y
 choco install teamviewer -y
+choco install git -y
 
 # restore
 Set-ExecutionPolicy $exe_policy -Force
