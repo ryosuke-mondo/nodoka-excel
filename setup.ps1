@@ -8,10 +8,22 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 $exe_policy = Get-ExecutionPolicy
 Set-ExecutionPolicy RemoteSigned -Force 
 
+function GetValidPath
+{
+    if( $env:USERPROFILE -match "[^\x01-\x7E]" )
+    {
+        mkdir "C:\tools\"
+        return "C:\tools\"
+    } else 
+    {
+        $env:USERPROFILE
+    }
+}
+
 function down{
     Param( $url, $name)
 
-    $down = $env:USERPROFILE + "\Downloads"
+    $down = GetValidPath + "\Downloads"
 
     $zip = $down + "\\${name}.zip"
     $dst = $down + "\\${name}"
@@ -21,7 +33,7 @@ function down{
     return $dst
 }
 
-$down = $env:USERPROFILE + "\Downloads"
+$down = GetValidPath + "\Downloads"
 
 $yamy_url = "https://ja.osdn.net/frs/redir.php?m=jaist&f=yamy%2F43637%2Fyamy-0.03.zip"
 $yamy_dst = down -url $yamy_url -name yamy
@@ -58,6 +70,7 @@ Invoke-Item $dim_dst\DimScreen\DimScreen.exe
 
 
 choco install vim -y
+choco install teamviewer -y
 
 # restore
 Set-ExecutionPolicy $exe_policy -Force
